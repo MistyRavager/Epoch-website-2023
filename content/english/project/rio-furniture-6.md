@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "AI Art"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work6.jpg"
-bg_image: "images/feature-bg.jpg"
-category: "Video"
+image : "images/AI-art-4.png"
+bg_image: "images/AI-art-4.png"
+category: "NLP"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

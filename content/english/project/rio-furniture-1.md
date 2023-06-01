@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
+title: "AI Art #2"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/AI-art.png"
 bg_image: "images/feature-bg.jpg"
-category: [ "UI/UX Design", "Video" ]
+category: [ "UI/UX Design", "NLP" ]
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
