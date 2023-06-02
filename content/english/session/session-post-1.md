@@ -29,6 +29,17 @@ at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Op
 eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
 
 
+<!-- Google Slides template -->
+<p align = "center">{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vQHDobXkEk-gQ6Wm6pP1lOlUYqKNVbdyNl5PPIsB22HfMbvlbJPT9qW_SyY5ZtR9HLOV_BimGxeKsXm/embed?start=false&loop=false&delayms=3000" >}}</p>
+<p align = "center">
+Fig.1 - <a href="https://docs.google.com/presentation/d/1djrNpc4uVxvUkz6WUTCGpUHY6yNJDqVOwSyB7ia0MW8/edit#slide=id.g2260a76eca2_6_10 " target="_blank">Slides link</a>
+</p>
+
+<!-- PDF template -->
+<p align = "center"><embed class="embed" src="/pdfs/Academic_Calendar_Aug23.pdf" type="application/pdf" width="100%" ></embed></p>
+<p align = "center">
+Fig.2 - pdf_caption
+</p>
 ```
   .blog-classic {
   margin-bottom: 70px;

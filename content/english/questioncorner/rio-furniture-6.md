@@ -2,8 +2,8 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work6.jpg"
-bg_image: "images/feature-bg.jpg"
+image : "images/AI-art.png"
+bg_image: "images/AI-art.png"
 category: "NLP"
 information:
   - label : "Client"

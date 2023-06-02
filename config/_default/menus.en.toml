@@ -17,13 +17,13 @@ url = "project/"
 weight = 3
 
 [[main]]
-name = "Sessions"
+name = "Sessions & Workshops"
 url = "session/"
 weight = 4
 
 [[main]]
-name = "Hackathons"
-url = "hackathon/"
+name = "Question Corner"
+url = "questioncorner/"
 weight = 5
 
 [[main]]

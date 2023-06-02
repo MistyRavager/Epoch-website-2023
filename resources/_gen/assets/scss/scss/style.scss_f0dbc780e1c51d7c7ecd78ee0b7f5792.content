@@ -2572,3 +2572,6 @@ section.page-title.bg-2 h1 {
 
 .btn.btn-main, .btn.btn-transparent, .btn.btn-small {
   border-radius: 5px; }
+
+.embed {
+  aspect-ratio: 1/1; }

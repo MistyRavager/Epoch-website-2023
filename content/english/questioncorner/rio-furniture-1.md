@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/AI-art.png"
 bg_image: "images/AI-art.png"
-category: [ "UI/UX Design", "NLP" ]
+category: [ "Regression", "NLP" ]
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/AI-art-5.png"
 bg_image: "images/AI-art-5.png"
-category: "UI/UX Design"
+category: "Regression"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
