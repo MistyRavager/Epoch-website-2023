@@ -10,17 +10,20 @@
 
         label {
           display: inline-block;
-          border: 1px solid $border-color;
           padding: 8px 25px;
           cursor: pointer;
           font-size: 15px;
-          color: lighten( $black, 20 );
-          outline: 0;
-          background: $white;
+          color: $white;
+          background: $color-primary;
           margin: 2px;
           border-radius: 0;
+          border: 0cap;
           @include transition (all, 0.3s, ease);
+          &:hover {
+            background: darken($color-primary, 20%);
+          }
         }
+        
       }
     }
   }
@@ -84,6 +87,9 @@
 
       &.h3 {
         margin-top: 0;
+        &:hover {
+          color: violet;
+        }
       }
     }
   }

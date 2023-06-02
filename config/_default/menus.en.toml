@@ -17,49 +17,19 @@ url = "project/"
 weight = 3
 
 [[main]]
-name = "Sessions"
+name = "Sessions & Workshops"
 url = "session/"
 weight = 4
 
 [[main]]
-name = "Hackathons"
-url = "hackathon/"
+name = "Question Corner"
+url = "questioncorner/"
 weight = 5
 
 [[main]]
 name = "Team"
 url = "#team-row"
 weight = 6
-
-
-
-# [[main]]
-#weight = 5
-#name = "More"
-#hasChildren = true
-
-# [[main]]
-# parent = "More"
-# name = "Service"
-#url = "service/"
-#weight = 1
-
-#[[main]]
-#parent = "More"
-#name = "Pricing"
-#url = "pricing/"
-#weight = 2
-
-#[[main]]
-#parent = "More"
-#name = "FAQ"
-#url = "faq/"
-#weight = 3
-  
-#[[main]]
-#name = "Contact"
-#url = "contact/"
-#weight = 6
 
 
 # footer menu

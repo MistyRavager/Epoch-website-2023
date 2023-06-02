@@ -4,12 +4,12 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-<section class="portfolio-single-page section-sm">
+<section class="portfolio-single-page section-sm">  
   <div class="container">
     <div class="row">
       <div class="col-md-8">
         {{ with .Params.image }}
-        <img class="img-responsive w-100" src="{{ . | relURL }}" alt="">
+        <img class="img-responsive w-100 " src="{{ . | relURL }}" alt="">
         {{ end }}
       </div>
       <div class="col-md-4">

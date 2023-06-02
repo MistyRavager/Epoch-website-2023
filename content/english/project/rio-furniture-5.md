@@ -1,9 +1,9 @@
 ---
-title: "Rio Furniture"
+title: "AI Art #6"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work5.jpg"
-bg_image: "images/feature-bg.jpg"
+image : "images/AI-art-3.png"
+bg_image: "images/AI-art-3.png"
 category: "Illustration"
 information:
   - label : "Client"

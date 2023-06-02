@@ -81,7 +81,7 @@ features:
 
   # feature item loop
   - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
-    name : "UI/UX Design"
+    name : "Regression"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
   # feature item loop

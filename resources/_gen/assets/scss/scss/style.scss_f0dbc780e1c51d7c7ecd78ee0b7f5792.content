@@ -813,20 +813,21 @@ header .navbar-default .navbar-nav li a:hover {
       margin-bottom: 40px; }
       .portfolio-work .block .portfolio-menu .btn-group label {
         display: inline-block;
-        border: 1px solid #ACB9C4;
         padding: 8px 25px;
         cursor: pointer;
         font-size: 15px;
-        color: #333333;
-        outline: 0;
-        background: #ffffff;
+        color: #ffffff;
+        background: #655e7a;
         margin: 2px;
         border-radius: 0;
+        border: 0cap;
         -webkit-transition: all 0.3s ease;
         -moz-transition: all 0.3s ease;
         -ms-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;
         transition: all 0.3s ease; }
+        .portfolio-work .block .portfolio-menu .btn-group label:hover {
+          background: #353240; }
 
 .portfolio-item {
   position: relative;
@@ -869,6 +870,8 @@ header .navbar-default .navbar-nav li a:hover {
       font-size: 30px; }
     .portfolio-content a.h3 {
       margin-top: 0; }
+      .portfolio-content a.h3:hover {
+        color: violet; }
 
 .portfolio-single-page .project-details h4 {
   margin-bottom: 20px;
@@ -2537,9 +2540,18 @@ canvas {
 section.page-title.bg-2::before {
   opacity: 0; }
 
+.portfolio-work {
+  background-color: #121212; }
+
+.portfolio-single-page {
+  background-color: #121212; }
+
 section.page-title.bg-2 h1 {
   font-weight: 1000 !important;
   text-shadow: 0.01em 0 black, 0 0.01em black, -0.01em 0 black, 0 -0.01em black; }
+
+.portfolio-item {
+  aspect-ratio: 2/1; }
 
 .post {
   background-color: #121212; }
@@ -2560,3 +2572,6 @@ section.page-title.bg-2 h1 {
 
 .btn.btn-main, .btn.btn-transparent, .btn.btn-small {
   border-radius: 5px; }
+
+.embed {
+  aspect-ratio: 1/1; }
