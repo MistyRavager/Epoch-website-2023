@@ -34,12 +34,15 @@ eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Imped
 <p align = "center">
 Fig.1 - <a href="https://docs.google.com/presentation/d/1djrNpc4uVxvUkz6WUTCGpUHY6yNJDqVOwSyB7ia0MW8/edit#slide=id.g2260a76eca2_6_10 " target="_blank">Slides link</a>
 </p>
-
+<p align = "center">{{< pdf src="/pdfs/Academic_Calendar_Aug23.pdf" >}}</p>
+<p align = "center">
+Fig.1 - <a href="https://docs.google.com/presentation/d/1djrNpc4uVxvUkz6WUTCGpUHY6yNJDqVOwSyB7ia0MW8/edit#slide=id.g2260a76eca2_6_10 " target="_blank">Slides link</a>
+</p>
 <!-- PDF template -->
-<p align = "center"><embed class="embed" src="/pdfs/Academic_Calendar_Aug23.pdf" type="application/pdf" width="100%" ></embed></p>
+<!-- <p align = "center"><embed class="embed" src="/pdfs/Academic_Calendar_Aug23.pdf" type="application/pdf" width="100%" ></embed></p>
 <p align = "center">
 Fig.2 - pdf_caption
-</p>
+</p> -->
 ```
   .blog-classic {
   margin-bottom: 70px;
