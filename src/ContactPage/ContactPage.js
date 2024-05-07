@@ -41,14 +41,14 @@ function ContactPage() {
     </div>
   
 
-  <form action="" className='page'>
+  {/* <form action="" className='page'>
     <input type="text" name="name" id="" placeholder='Your Full name' required />
 
     <input type="email" name="email" id="" placeholder='Your email' required />
 
     <textarea name="message" id=""  rows="17" placeholder='Your message' required></textarea>
     <button type='submit' className='btn btn-primary'>Send Message</button>
-  </form>
+  </form> */}
   
   </div>
 

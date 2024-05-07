@@ -1,29 +1,30 @@
 [
     {
-        "name" : "event1",
-        "description" : "   qwertyuiopogfdxcghijbjmkvcxszsdcghhjkhyfdewweaqasedffhjkokjjijhgfde",
+        "Name" : "Workshop 01 - Introduction to Computer Vision",
+        "Description" : " Basic and engaging workshop to understand how computers 'see' images and manipulate them",
         "imageAddress" : "img1",
-        "link" : "link1",
-        "year" : "2020"
+        "Github link" : "https://github.com/Epoch-IITH/2023-cv-intro",
+        "Related Images" : "https://drive.google.com/drive/folders/1LOBmAK51uGwOtpAoD9Va_rPK9HxyQ97-?usp=sharing"
     },
     {
-        "name" : "event1",
-        "description" : "   qwertyuiopogfdxcghijbjmkvcxszsdcghhjkhyfdewweaqasedffhjkokjjijhgfde",
-        "imageAddress" : "img1",
-        "link" : "link1",
-        "year" : "2020"
+        "Name" : "Session 01 - Introduction to AI-ML",
+        "Description" : " An overview of Artificial Intelligence (AI) and Machine Learning (ML), along with their various domains and a look at popular tools used in these fields.",
+        "imageAddress" : "img2",
+        "Related Images" : "https://drive.google.com/drive/folders/1t7GTDo4Lm7NeOb5RGYff776x_nRV2FEt?usp=sharing",
+        "Slides" : "https://docs.google.com/presentation/d/1cOmzcYxY17VN7I3leLHxlUIPDjO5LI2DzINaJXb1TvY/edit?usp=sharing"
     },
     {
-        "name" : "event1",
-        "description" : "   qwertyuiopogfdxcghijbjmkvcxszsdcghhjkhyfdewweaqasedffhjkokjjijhgfde",
-        "imageAddress" : "img1",
-        "link" : "link1",
-        "year" : "2020"
+        "Name" : "Workshop 02 - Recommender Systems Demystified: Uncover Netflix's Secrets!",
+        "Description" : "Deep dive into one of the recommendation system algorithms, SVD(Singular Value Decomposition), that makes the social media feeds come alive! Which was used to build a movie recommender system.",
+        "imageAddress" : "img3",
+        "Related Images" : "https://drive.google.com/drive/folders/1pLjO5qblCUYwYMj0u5LXLs7BhKn41SIP?usp=sharing",
+        "Slides":"https://docs.google.com/presentation/d/1cOmzcYxY17VN7I3leLHxlUIPDjO5LI2DzINaJXb1TvY/edit?usp=sharing",
+        "Github link": "https://github.com/Epoch-IITH/2023-cv-intro"
     },
     {
-        "name" : "event1",
-        "description" : "   qwertyuiopogfdxcghijbjmkvcxszsdcghhjkhyfdewweaqasedffhjkokjjijhgfde",
-        "imageAddress" : "img1",
+        "Name" : "event1",
+        "Description" : "   qwertyuiopogfdxcghijbjmkvcxszsdcghhjkhyfdewweaqasedffhjkokjjijhgfde",
+        "imageAddress" : "img1bhu",
         "link" : "link1",
         "year" : "2020"
     }
